@@ -1,1 +1,4 @@
+
 data/crash-data.csv
+data/cleaned_crash_data.csv
+*ipynb_checkpoints/
