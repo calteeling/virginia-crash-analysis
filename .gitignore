@@ -4,3 +4,4 @@ data/cleaned_crash_data.csv
 *ipynb_checkpoints/
 .DS_Store
 data/crash-data.csv
+.DS_Store
