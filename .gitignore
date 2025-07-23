@@ -3,10 +3,12 @@ data/crash-data.csv
 data/cleaned_crash_data.csv
 
 # Ignore Jupyter checkpoint folders
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # Ignore macOd system files
 .DS_Store
+**/.DS_Store
 
 # Ignore anaconda_projects files
 anaconda_projects/
+anaconda_projects/**
