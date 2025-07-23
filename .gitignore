@@ -1,8 +1,11 @@
+# Ignore raw and cleaned data files
+data/crash-data.csv
+data/cleaned_crash_data.csv
 
-data/crash-data.csv
-data/cleaned_crash_data.csv
-*ipynb_checkpoints/
+# Ignore Jupyter checkpoint folders
+*ipynb_checkpoints/e
+
+# Ignore macOd system files
 .DS_Store
-data/crash-data.csv
-.DS_Store
-data/cleaned_crash_data.csv
+
+
