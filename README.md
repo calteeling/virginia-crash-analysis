@@ -2,4 +2,4 @@
 In progress!
 
 ## Virginia Crash Heatmap
-![Crash Data Screenshot](screenshots/vdot_crash_screenshot.png)
+![Crash Data Screenshot](screenshots/virginia_crash_heatmap.png)
